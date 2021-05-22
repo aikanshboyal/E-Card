@@ -1,6 +1,9 @@
-# ecard_app
+## E-card Application
 
-A new Flutter project.
+A new project based on flutter to create an ease of fast communication in daily life by showing your E-card quickly.  
+  
+  
+![intro_emulator](https://user-images.githubusercontent.com/75120140/119235610-007eff00-bb51-11eb-8a9c-3c63766af96f.JPG)
 
 ## Getting Started
 
